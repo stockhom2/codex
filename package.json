@@ -1,0 +1,23 @@
+{
+  "name": "open_ai_codex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockhom2/codex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stockhom2/codex/issues"
+  },
+  "homepage": "https://github.com/stockhom2/codex#readme",
+  "dependencies": {
+    "got": "^11.8.0"
+  }
+}
